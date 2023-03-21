@@ -13,7 +13,7 @@ Fix deprecated function problems in the original project:
 
 ## 效果展示 Demo
 
-[MongoDB-e-commerce-site](https://images.zsxq.com/FhmLgdNjmMABdO7EATqf25c2ko2G?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1682870399&s=vvjvjyvtytyvmy&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v8Z8NhY92HM7yhzquruuTjAqt68=)
+![MongoDB-e-commerce-site](https://images.zsxq.com/FhmLgdNjmMABdO7EATqf25c2ko2G?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1682870399&s=vvjvjyvtytyvmy&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v8Z8NhY92HM7yhzquruuTjAqt68=)
 
 ## 如何使用 How to use
 
