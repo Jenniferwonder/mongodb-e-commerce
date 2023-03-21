@@ -30,7 +30,7 @@ Fix deprecated function problems in the original project:
 
 ### e-commerce-local
 
--[] Connect Frontend App with local MongoDB Database
+- [ ] Connect Frontend App with local MongoDB Database
 
 ## 参考资料 Reference
 
